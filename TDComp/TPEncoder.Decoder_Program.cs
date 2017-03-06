@@ -10,7 +10,7 @@ namespace _2017_02_22_TP_Encoder_Decoder
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Rentrer votre phrase!");
+            Console.WriteLine("Rentrez votre phrase!");
             string phrase = Console.ReadLine();
             Console.WriteLine("La phrase est-elle à encoder ou à decoder?");
             string transfo = Console.ReadLine();
